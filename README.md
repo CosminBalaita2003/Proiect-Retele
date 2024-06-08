@@ -1,7 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DQ11BQYq)
-# Proiect Rețele 2023-2024
 
-## Sumar
+## Sumar - aceasta este solutia pentru proiectul de la Materia Retele anul 2 sem 2  
 
 Pentru proiect trebuie să rezolvați următoarele probleme:
 - [Preambul (0p)](#vps)
@@ -10,18 +8,6 @@ Pentru proiect trebuie să rezolvați următoarele probleme:
 - [DNS Tunnel (3p)](#dns2)
 - [ARP Spoofing (1p)](#arp)
 - [TCP Hijacking (3p)](#tcp)
-
-### Reguli:
-- echipe de maxim 3 persoane (muncă în echipă înseamnă că fiecare coleg poate explica munca celorlalți)
-- codul pe care nu îl puteți explica se punctează cu 0
-- codul copiat de la alți colegi din alte echipe sau scris cu LLM se punctează cu 0 sau se face raport; codul este verificat cu programe de similaritate și cu un clasificator de identificat cod scris cu LLM
-- echipele pot fi formate doar din colegi care sunt in aceeasi serie
-- orice cod preluat de pe internet trebuie citat (menționat la început de fișier) și înțeles întru totul
-- veți fi punctați pe baza întrebărilor pe care le primiți
-- întrebările nu vor tine cont de partea la care ati lucrat cel mai mult
-- proiectul trebuie să ruleze în timpul prezentării
-- **termen limită:** 09 iunie
-
 
 <a name="vps"></a> 
 ## Preambul
